@@ -1,3 +1,7 @@
+[![Twitter](https://img.shields.io/twitter/follow/Roherdzik.svg?style=social&label=Follow)](https://twitter.com/Roherdzik) 
+
+⬆️ Hi, if you want to ask me something, please do not hesiate and DM me on [Twitter](https://twitter.com/Roherdzik) 🍻 
+
 <a href="https://github.com/robertherdzik/robertherdzik">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=robertherdzik&theme=dark&show_icons=true"/>
 </a>
