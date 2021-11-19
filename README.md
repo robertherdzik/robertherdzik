@@ -1,12 +1,11 @@
-
-
-# Hey 🙌
-
 <a href="https://github.com/robertherdzik/robertherdzik">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=robertherdzik&theme=dark&show_icons=true"/>
 </a>
 
 <!--
+
+# Hey 🙌
+
 **robertherdzik/robertherdzik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
